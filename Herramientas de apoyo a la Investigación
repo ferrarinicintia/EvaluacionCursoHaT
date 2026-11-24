@@ -2,8 +2,41 @@
 
 ## Introducción
 
+Este trabajo forma parte del curso de posgrado denominado de la Hipotesis a la Tesis, en el que se presentaron una serie de herramientas para el apoyo a la investigación.
+
 ## Desarrollo
 
+En esta apartado se presentan las herramientas según la funcionalidad de cumplen en el marco de un proceso de investigación, atendiendo a lo que Samaja concibe como
+un componente del invariate estructural, los medios y las condiciones de realización. Dado que el uso de algunas de estas tecnologias permite al investigador
+acceder a determinada comunidad científica.
+
+### Búsqueda y literatura científica
+
+- Repositorios de preprints: arXiv (especialmente la sección cs) es el estándar para leer los últimos avances antes de su publicación formal.
+- Bases de datos especializadas: IEEE Xplore, ACM Digital Library, DBLP (excelente para rastrear autores y conferencias) y Semantic Scholar.
+- Mapeo y lectura con IA: Connected Papers y Research Rabbit ayudan a visualizar redes de citas, mientras que SciSpace facilita la comprensión de fórmulas y algoritmos en PDFs.
+
+### Desarrollo, código y reproducibilidad
+
+- Control de versiones y alojamiento: GitHub y GitLab son esenciales para gestionar código, colaborar y enlazar repositorios a tus artículos.
+- Entornos interactivos: Jupyter Notebooks y Google Colab permiten combinar código ejecutable, ecuaciones y texto explicativo en un mismo documento.
+- Contenedores: Docker garantiza que tus experimentos puedan replicarse en cualquier máquina con exactamente las mismas dependencias.
+- Benchmarks y modelos: Papers with Code (conectado con arXiv) y Hugging Face son clave para encontrar implementaciones oficiales, datasets y modelos preentrenados.
+
+### Redacción y gestión bibliográfica
+
+- Escritura colaborativa en LaTeX: Overleaf es la herramienta estándar para redactar artículos usando las plantillas oficiales de IEEE, ACM o NeurIPS.
+- Gestores compatibles con BibTeX: Zotero (junto con la extensión Better BibTeX) o JabRef permiten exportar y sincronizar archivos .bib automáticamente con Overleaf.
+
+### Difusión y archivado
+
+- Preservación de software y datasets: Zenodo permite asignar un DOI citable a tus repositorios de GitHub o conjuntos de datos.
+- Perfiles académicos: ORCID y Google Scholar Citations son indispensables para mantener un registro unificado de tus publicaciones y métricas.
+
 ## Conclusiones
+
+Las herramientas si bien presentan la posiblidad de automatizar procesos de escritura, cambios de formato y administración de historial de versiones, 
+requiere de un tiempo de aprendizaje
+
 
 ## Referencias Bibliograficas  
